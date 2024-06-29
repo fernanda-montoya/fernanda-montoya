@@ -1,6 +1,6 @@
-hi there! i'm fernanda
+hi there! i'm fernanda 🫐
 
-- testing
+
 
 <!--
 **fernanda-montoya/fernanda-montoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⭐ I'm a first year PhD student in the Department of Biostatistics at the Johns Hopkins Bloomberg School of Public Health
 -->
